@@ -27,4 +27,3 @@ Install all required packages using:
 ```bash
 pip install -r requirements.txt
 
-<img width="1460" height="572" alt="Equity_Curve" src="https://github.com/user-attachments/assets/fb7a5e68-493f-41d5-bec4-5a79e448e15a" />
