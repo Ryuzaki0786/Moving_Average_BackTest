@@ -1,12 +1,12 @@
 # Moving_Average_BackTest
 
-# 📈 Moving Average Backtesting App
+# Moving Average Backtesting App
 
 This Streamlit application allows users to perform a simple moving average crossover backtest on any stock using historical price data fetched via Yahoo Finance. The app generates buy/sell signals based on short-term and long-term moving average crossover strategy and visualizes both the signals and the resulting equity curve.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Input any stock ticker (e.g., AAPL, TSLA, INFY, etc.)
 - Select custom date range for historical data
@@ -20,7 +20,7 @@ This Streamlit application allows users to perform a simple moving average cross
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install all required packages using:
 
