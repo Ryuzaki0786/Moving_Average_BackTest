@@ -30,4 +30,10 @@ pip install -r requirements.txt
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
+##Acknowledgements
+- This project served as a practical deep-dive into quantitative finance and technical indicators.
+- Conceptual Learning: I utilized ChatGPT and Claude as instructional tools to bridge the gap between financial theory (specifically Short vs. Long Moving Averages) and implementation logic.
+- Development: While AI assisted with debugging and optimization, I manually wrote the core backtesting engine to ensure a first-principles understanding of the code.
+- Transparency & Reproducibility: I have included detailed documentation and inline comments at every crucial step. This ensures the project is easy to follow, reproducible for other developers, and serves as a clear foundation for my future quantitative work.
+
 
